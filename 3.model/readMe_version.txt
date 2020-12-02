@@ -1,0 +1,3 @@
+ChineseFood_ResNet50_V0:最基础版本
+ChineseFood_ResNet50_V1:做精细化调整，进行预测时输出中文菜名
+ChineseFood_ResNet50_V2:增加将训练过的模型继续训练
