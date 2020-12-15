@@ -1,2 +1,4 @@
 We have not implement the function of deleting irrelevant images.
 If you have good method, please sent e-mail to me: qiujie_dong@qq.com.
+
+The method SVM can catch our eyes.
